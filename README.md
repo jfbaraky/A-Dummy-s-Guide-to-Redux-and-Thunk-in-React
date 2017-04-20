@@ -11,6 +11,7 @@ First you need:
 After you clone this code, select the project folder in the command line and:
 
 ```
+$ npm install whatwg-fetch --save
 $ npm install
 $ npm start
 ```
